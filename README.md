@@ -95,4 +95,4 @@ momentum-app/
 ├── .env                        # API keys
 ├── app.json                    # Expo config
 ├── package.json
-└── README.md
+└── README.md                   # Current file
